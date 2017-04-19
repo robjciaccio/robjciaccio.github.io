@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Day twelve, 70% though intro to Ruby"
-date:   2017-04-19 04:46:08 +0000
+title:  "Day twelve, 70% through intro to Ruby"
+date:   2017-04-19 00:46:09 -0400
 ---
 
 
